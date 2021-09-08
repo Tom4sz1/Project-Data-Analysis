@@ -1,2 +1,2 @@
-# Titanic Project
- Data analysis from Titanic
+#  Project
+ Data analysis from Titanic and stock
